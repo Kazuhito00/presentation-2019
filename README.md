@@ -17,7 +17,7 @@ python presentation.py
 ```
 
 # Contents
-## 【PyCon mini Shizuoka2020】EeLとWebSlidesで一味違う画像処理のプレゼン
+## 【機械学習名古屋 第22回】Hand Detectionで手の形いろいろ試してみた
 ![2020-03-03_2](https://user-images.githubusercontent.com/37477845/75690420-2b7bf980-5ce6-11ea-81b3-fa24bdb0ee71.png)
 
 パス：presentation_document/20191116_MLN#22
