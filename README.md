@@ -19,6 +19,7 @@ python presentation.py
 # Contents
 ## 【PyCon mini Shizuoka2020】EeLとWebSlidesで一味違う画像処理のプレゼン
 ![2020-03-03_2](https://user-images.githubusercontent.com/37477845/75690420-2b7bf980-5ce6-11ea-81b3-fa24bdb0ee71.png)
+
 パス：presentation_document/20191116_MLN#22
 
 資料： [GitHub Pages](https://kazuhito00.github.io/presentation-2019/presentation_document/20191116_MLN_22/web/index.html) / [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln-number-22-hand-detection) / [Youtube](https://youtu.be/eI4YWzKhDo0)
