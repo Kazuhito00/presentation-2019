@@ -1,5 +1,5 @@
 # presentation-2019
- presentation-2019‚Íopencv2webslides‚ğ—p‚¢‚½ƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‘—¿‚ğ‚Ü‚Æ‚ß‚½ƒŠƒ|ƒWƒgƒŠ‚Å‚·B
+ presentation-2019ã¯opencv2webslidesã‚’ç”¨ã„ãŸãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™ã‚’ã¾ã¨ã‚ãŸãƒªãƒã‚¸ãƒˆãƒªã§ã™ã€‚
 
 # Requirement
  
@@ -9,27 +9,26 @@
  
 # Usage
  
-presentation_documentƒfƒBƒŒƒNƒgƒŠ‚Ì”z‰º‚ÉƒvƒŒƒ[ƒ“ƒe[ƒVƒ‡ƒ“‘—¿‚ªŠi”[‚³‚ê‚Ä‚¢‚Ü‚·B
-Šm”F‚µ‚½‚¢‘—¿‚ÌƒfƒBƒŒƒNƒgƒŠ‚É‚ÄˆÈ‰º‚ÌPythonƒvƒƒOƒ‰ƒ€‚ğÀs‚µ‚Ä‚­‚¾‚³‚¢B
+presentation_documentãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®é…ä¸‹ã«ãƒ—ãƒ¬ã‚¼ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³è³‡æ–™ãŒæ ¼ç´ã•ã‚Œã¦ã„ã¾ã™ã€‚
+ç¢ºèªã—ãŸã„è³‡æ–™ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ã¦ä»¥ä¸‹ã®Pythonãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ã€‚
  
 ```bash
 python presentation.py
 ```
 
 # Contents
-## yPyCon mini Shizuoka2020zEeL‚ÆWebSlides‚Åˆê–¡ˆá‚¤‰æ‘œˆ—‚ÌƒvƒŒƒ[ƒ“
-ƒpƒXFpresentation_document/20200229_PyCon_mini_Shizuoka
-![PyConMiniShizuoka2020](https://user-images.githubusercontent.com/37477845/75611121-fc854c80-5b5a-11ea-9c6e-85314378d088.png)
-* [GitHub Pages](https://kazuhito00.github.io/presentation-2020/presentation_document/20200229_PyCon_mini_Shizuoka/webslides/index.html)
-* [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pyconminishizuoka2020-opencv-eel-presantation)
-* [Youtube](https://youtu.be/k-ydSlxC_Zg)
+## ã€PyCon mini Shizuoka2020ã€‘EeLã¨WebSlidesã§ä¸€å‘³é•ã†ç”»åƒå‡¦ç†ã®ãƒ—ãƒ¬ã‚¼ãƒ³
+![2020-03-03](https://user-images.githubusercontent.com/37477845/75688984-c3c4af00-5ce3-11ea-9472-6109da55a4da.png)
+ãƒ‘ã‚¹ï¼špresentation_document/20191116_MLN#22
+
+è³‡æ–™ï¼š [GitHub Pages](https://kazuhito00.github.io/presentation-2019/presentation_document/20191116_MLN#22/web/index.html) / [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln-number-22-hand-detection) / [Youtube](https://youtu.be/eI4YWzKhDo0)
 
 
 # Author
-‚‹´‚©‚¸‚Ğ‚Æ(https://twitter.com/KzhtTkhs)
+é«˜æ©‹ã‹ãšã²ã¨(https://twitter.com/KzhtTkhs)
  
 # License 
-presentation-2020 is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+presentation-2019 is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 # WebSlides 1.5.0 License 
 MIT License
