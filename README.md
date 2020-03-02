@@ -21,7 +21,7 @@ python presentation.py
 ![2020-03-03](https://user-images.githubusercontent.com/37477845/75688984-c3c4af00-5ce3-11ea-9472-6109da55a4da.png)
 パス：presentation_document/20191116_MLN#22
 
-資料： [GitHub Pages](https://kazuhito00.github.io/presentation-2019/presentation_document/20191116_MLN#22/web/index.html) / [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln-number-22-hand-detection) / [Youtube](https://youtu.be/eI4YWzKhDo0)
+資料： [GitHub Pages](https://kazuhito00.github.io/presentation-2019/presentation_document/20191116_MLN_22/web/index.html) / [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/mln-number-22-hand-detection) / [Youtube](https://youtu.be/eI4YWzKhDo0)
 
 
 # Author
